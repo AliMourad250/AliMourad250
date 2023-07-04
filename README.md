@@ -16,7 +16,7 @@ Before you begin, make sure you have the following software installed on your ma
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/danielawde9/fullstack-bootcamp.git
+   git clone https://github.com/AliMourad250/First-Repo.git
    ```
 
 ## Additional Resources
